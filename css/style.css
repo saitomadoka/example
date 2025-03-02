@@ -54,7 +54,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 /* 共通
 ------------------------------------------------------------*/
-h1, h2{
+h1, h2,h3{
 	font-family: 'Modern Antiqua', 'Noto Sans JP',serif;
 }
 
